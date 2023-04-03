@@ -2,7 +2,6 @@
 ### I'm Marco, web developer from Rome.
 ```javascript
 const marco = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "HTML", "CSS", "SCSS"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
