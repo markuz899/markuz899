@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**markuz899/markuz899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const marco = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "HTML", "CSS", "SCSS"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        frontEnd: {
+            js: ["React", "Redux", "NextJs"]
+        },
+        devOps: ["Docker", "Nginx", "Apache"],
+        databases: ["Mongo", "MySql", "sqlite"],
+        misc: ["Socket.IO"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Creating web applications",
+    funFact: "Take care of your life, develop prudently"
+};
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=markuz899&layout=compact&hide_progress=false)
