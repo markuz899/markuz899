@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I'm Marco, web developer from Rome.
 ```javascript
 const marco = {
     pronouns: "He" | "Him",
@@ -21,5 +21,3 @@ const marco = {
     funFact: "Take care of your life, develop prudently"
 };
 ```
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=markuz899&layout=compact&hide_progress=false)
